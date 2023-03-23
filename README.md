@@ -1,1 +1,1 @@
-# RS232 Symulator by Mateusz Makowiecki && Adam Szczodrowski
+ RS232 Symulator by Mateusz Makowiecki && Adam Szczodrowski
